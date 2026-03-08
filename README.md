@@ -1,6 +1,9 @@
-# hey! 👋 I'm Connie
+<h1 align="center">hey! 👋 I'm Connie</h1>
 
-i'm a beginner developer who fell in love with the process of testing and debugging! currently interested in just learning through independent projects
+<p align="center">
+  i'm a beginner developer who fell in love with the process of testing and debugging! <br>
+  currently interested in just learning through independent projects.
+</p>
 
 ![](https://komarev.com/ghpvc/?username=huangconnie13)
 
