@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=huangconnie13)
 
-- 🔭 I’m currently working on an AI Advisor for CS schedule building
+- 🔭 My last project was working on an AI Advisor for CS schedule building
 - 🌱 I'm currently learning how to analyze data with R
 - ☕ Fun fact, **coffee makes me sleepy**
 
