@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=huangconnie13)
 
 - 🔭 My last project was working on an AI Advisor for CS schedule building
-- 🌱 I'm currently learning how to analyze data with R
+- 🌱 I'm currently learning how to create my own portfolio
 - ☕ Fun fact, **coffee makes me sleepy**
 
 ### Connect with me on [LinkedIn! ](https://www.linkedin.com/in/huangconnie1/)
